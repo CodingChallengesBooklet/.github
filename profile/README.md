@@ -3,6 +3,6 @@ This organisation is a collection of solutions to the OCR GCSE/A-level Computer 
 Each coding challenge in the booklet has it's own repoistory within this organisation. Each repository will include a README explaining the code challenge and the solution. Repositories may have multiple solutions stored in folders by the language used.
 
 ## Code Challenges
-| Challenge | Repository | Languages  | Solved? |
+| Challenge | Repository | Languages  | Difficulty |
 | --------- | ---------- | ---------- | ------- |
-| Factorial Finder | [Click Here]() | Python | Yes |
+| Factorial Finder | [Click Here](https://github.com/CodingChallengesBooklet/FactorialFinder) | Python | Easy |
