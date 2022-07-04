@@ -6,3 +6,4 @@ Each coding challenge in the booklet has it's own repoistory within this organis
 | Challenge | Repository | Languages  | Difficulty |
 | --------- | ---------- | ---------- | ------- |
 | Factorial Finder | [Click Here](https://github.com/CodingChallengesBooklet/FactorialFinder) | Python | Easy |
+| Speed Tracker | [Click Here](https://github.com/CodingChallengesBooklet/SpeedTracker) | Python | Easy |
