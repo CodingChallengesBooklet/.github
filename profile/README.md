@@ -1,6 +1,11 @@
 # GCSE/A-level Coding Challenges Booklet Organisation
-This organisation is a collection of solutions to the OCR GCSE/A-level Computer Science Coding Challenges Booklet ([link](https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf)).
+This organisation is a collection of solutions to the [OCR GCSE/A-level Computer Science Coding Challenges Booklet](https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf).
 Each coding challenge in the booklet has it's own repoistory within this organisation. Each repository will include a README explaining the code challenge and the solution. Repositories may have multiple solutions stored in folders by the language used.
+
+![GitHub followers](https://img.shields.io/github/followers/hrszpuk?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/hrszpuk?style=social)
+<br>
+![](https://progress-bar.dev/3/?scale=100&title=Code%20Challenges%20Complete&width=90)
 
 ## Code Challenges
 If you would like to search through the code challenges, I would recommend clicking on the [repositories](https://github.com/orgs/CodingChallengesBooklet/repositories) button next to "Overview" in the top row of button and using the search bar there. You can search using the name of the challenge, the difficulty [Easy](https://github.com/orgs/CodingChallengesBooklet/repositories?q=easy), [Medium](https://github.com/orgs/CodingChallengesBooklet/repositories?q=medium), [Hard](https://github.com/orgs/CodingChallengesBooklet/repositories?q=hard), the language such as [Python](https://github.com/orgs/CodingChallengesBooklet/repositories?q=python), [Rust](https://github.com/orgs/CodingChallengesBooklet/repositories?q=rust), [C](https://github.com/orgs/CodingChallengesBooklet/repositories?q=c), [Java](https://github.com/orgs/CodingChallengesBooklet/repositories?q=java), or by searching for a key word to do with the challenge such as [Recursion](https://github.com/orgs/CodingChallengesBooklet/repositories?q=recursion) or [Game](https://github.com/orgs/CodingChallengesBooklet/repositories?q=game).
